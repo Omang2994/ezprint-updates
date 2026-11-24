@@ -1,0 +1,18 @@
+{
+    "setup":  {
+                  "ver":  "1.0.6",
+                  "code":  106,
+                  "url":  "https://github.com/Omang2994/ezprint-updates/releases/download/v1.0.6/EzPrintPro-Setup-1.0.6.exe",
+                  "md5":  "3cf5d43599816e0d42300ce2fbb1d392",
+                  "sig":  "12wUntoLz0Gq/NdNZ78IxqGKPlEhyQDAAHTr2hlxjnmxO74EWTffIOxUFaUaLm48pkqMK+dcjKnuJ9vCS7IBDA==",
+                  "notes":  ""
+              },
+    "fw":  {
+               "ver":  "2.2.1",
+               "code":  221,
+               "url":  "https://github.com/Omang2994/ezprint-updates/releases/download/firmware-2.2.1/EzPrint-Firmware-2.2.1.bin",
+               "md5":  "d0038e4f212f46c46b30cc5a0e4386bf",
+               "sig":  "oDTMmUacLAGk0BIOjSJIPdpW1Fydg3C0Bt1Q7bQSA7bIiTw2vD/kM5fBYWV4rZg89Pmtvp4n0qhh4HOVa7eiog==",
+               "notes":  ""
+           }
+}
